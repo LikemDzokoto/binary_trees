@@ -20,10 +20,6 @@ This project includes the following tasks
 17. Sibling - Write a function that finds the sibling of a node
 18. Uncle  - Write a function that finds the uncle of a node
 
-## Authors
-Gbemi Adebayo [Github](https://github.com/jacobgbemi) and Helina Gebreyes [Github](https://github.com/helinaabye)
-
-## Advanced Tasks
 19. Lowest common ancestor - Write a function that finds the lowest common ancestor of two nodes
 20. Level-order traversal - Write a function that goes through a binary tree using level-order traversal
 21. Is complete - Write a function that checks if a binary tree is complete
